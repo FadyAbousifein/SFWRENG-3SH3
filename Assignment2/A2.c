@@ -11,10 +11,6 @@
 
  Run:
      ./A2 <number_of_students>
-
- NOTE: Generative AI was used to help with formatting code and using the best 
-       practices for multithreading applications. No functional code used to 
-       solve the assignment was generated with any AI. 
  ============================================================================
 */
 
